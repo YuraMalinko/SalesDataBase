@@ -77,5 +77,8 @@
     <Build Include="dbo\Tables\Client_Wishes.sql" />
     <Build Include="dbo\Stored Procedures\GetAllManager.sql" />
     <Build Include="dbo\Stored Procedures\GetSpecificManager.sql" />
+    <Build Include="dbo\Stored Procedures\CreateNewManager.sql" />
+    <Build Include="dbo\Stored Procedures\UpdateNameManager.sql" />
+    <Build Include="dbo\Stored Procedures\UpdatePasswordManager.sql" />
   </ItemGroup>
 </Project>
