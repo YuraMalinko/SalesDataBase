@@ -76,5 +76,6 @@
     <Build Include="dbo\Tables\Subgroup.sql" />
     <Build Include="dbo\Tables\Client_Wishes.sql" />
     <Build Include="dbo\Stored Procedures\GetAllManager.sql" />
+    <Build Include="dbo\Stored Procedures\GetSpecificManager.sql" />
   </ItemGroup>
 </Project>
