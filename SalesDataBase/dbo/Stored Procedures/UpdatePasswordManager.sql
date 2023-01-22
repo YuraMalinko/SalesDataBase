@@ -3,5 +3,5 @@
 	@NewPassword nvarchar(20)
 as
 	update Manager
-	set [Name] = @NewPassword
+	set [Password] = @NewPassword
 	where [Id]=@IdManager
